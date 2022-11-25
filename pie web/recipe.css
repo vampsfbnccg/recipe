@@ -1,0 +1,25 @@
+body{
+  width: 1024px;
+  color: #404040;
+  font-family: Georgia;
+  background-image: url("pictures/silverware.jpg");
+  background-attachment: fixed;
+}
+h1, h2, h3, h4, h5{
+  color: #A4A400;
+  background-color: #F0F0F0;
+  font-family:Lucida Sans Unicode, Helvetica, Arial,;
+
+}
+h1{
+  text-align: center;
+  font-weight: 22pt;
+}
+h2, h3, h4, h5{
+  font-weight:18pt ;
+}
+.comments{
+  background-color: #FFFFA8;
+  margin-left: 20px;
+  margin-right: 20px;
+}
